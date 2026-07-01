@@ -245,27 +245,27 @@ rag_pipeline/
 The Research Terminal Streamlit interface showcases a beautiful dark-themed command-deck aesthetic with intuitive navigation and citation-aware responses. Below are screenshots from the `images/` folder:
 
 ### 1. Dashboard Overview
-![Dashboard Overview](images/Screenshot 2026-07-01 at 8.08.49 PM)
+![Dashboard Overview](<images/Screenshot 2026-07-01 at 8.08.49 PM.png>)
 Initial state with the step-by-step build timeline in the sidebar and welcome message.
 
 ### 2. PDF Ingestion Progress
-![PDF Ingestion](images/Screenshot%202026-07-01%20at%208.09.46%20PM.png)
+![PDF Ingestion](<images/Screenshot 2026-07-01 at 8.09.46 PM.png>)
 Shows real-time progress during the automated PDF ingestion and text extraction phase.
 
 ### 3. Index Building & Embedding
-![Index Building](images/Screenshot%202026-07-01%20at%208.12.18%20PM.png)
+![Index Building](<images/Screenshot 2026-07-01 at 8.12.18 PM.png>)
 Demonstrates the semantic embedding generation and FAISS index construction process.
 
 ### 4. Query Interface
-![Query Interface](images/Screenshot%202026-07-01%20at%208.12.34%20PM.png)
+![Query Interface](<images/Screenshot 2026-07-01 at 8.12.34 PM.png>)
 Main Q&A chat interface where users type their research questions.
 
 ### 5. Citation Display
-![Citation Display](images/Screenshot%202026-07-01%20at%208.12.42%20PM.png)
+![Citation Display](<images/Screenshot 2026-07-01 at 8.12.42 PM.png>)
 Answers with inline source citations `[1]`, `[2]`, `[3]`, `[4]` linked directly to source documents.
 
 ### 6. Full Q&A Log
-![Q&A Log](images/Screenshot%202026-07-01%20at%208.13.12%20PM.png)
+![Q&A Log](<images/Screenshot 2026-07-01 at 8.13.12 PM.png>)
 Complete conversation history with formatted responses and source attribution.
 
 ---
