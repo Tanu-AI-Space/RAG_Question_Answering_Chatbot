@@ -245,7 +245,7 @@ rag_pipeline/
 The Research Terminal Streamlit interface showcases a beautiful dark-themed command-deck aesthetic with intuitive navigation and citation-aware responses. Below are screenshots from the `images/` folder:
 
 ### 1. Dashboard Overview
-![Dashboard Overview](images/Screenshot%202026-07-01%20at%208.08.49%20PM.png)
+![Dashboard Overview](images/Screenshot 2026-07-01 at 8.08.49 PM)
 Initial state with the step-by-step build timeline in the sidebar and welcome message.
 
 ### 2. PDF Ingestion Progress
