@@ -1,4 +1,4 @@
-# Research Terminal · Mistral RAG Pipeline
+# RAG Question Answering Chatbot
 
 A powerful **Retrieval-Augmented Generation (RAG)** pipeline for semantic question answering over research papers. Built with Python, LangChain, FAISS, Sentence Transformers, PyMuPDF, and HuggingFace—combining semantic search with Mistral AI's language model to deliver grounded, citation-aware answers.
 
